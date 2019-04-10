@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.poseidon",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "searchservice",
+    "packageName": "com.poseidon",
+    "packageFolder": "com/poseidon",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGFiMmZhZDdhMGFhMWUyOWUxYWEzNWRiYmFkZTA0MTkxMzg0MzcwMzMyZDYzNWE3ZGYyMjg5NTIzZGZiNGJkYjE2Yzc0MTY2OTkzZDMzMDNmZmQ4MmVhMzYzNzdmNTYzNTQzMGM5ZDQyOGQ1OTRiNTAxYTc2YzBhYzFiMTE1NDY=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "tr"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
